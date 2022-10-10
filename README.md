@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Florian, currently working as a Senior Data Scientist Logistics at IKEA.  I live in The Hague, the Netherlands.
+Hi, I'm Florian, a freelance data scientist & data engineer.  I live in The Hague, the Netherlands.
 
 ### Find me online 
 [![fpgmaas.com](https://img.shields.io/badge/fpgmaas.com-black?style=for-the-badge&logo=gatsby&logoColor=white)](https://fpgmaas.com) &nbsp;
