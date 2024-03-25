@@ -6,8 +6,6 @@ Hi, I'm Florian, a freelance data/ML engineer.  I live in The Hague, the Netherl
 [![fpgmaas.com](https://img.shields.io/badge/fpgmaas.com-black?style=for-the-badge&logo=gatsby&logoColor=white)](https://fpgmaas.com) &nbsp;
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8037249/florian) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florianmaas/) &nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fpgmaas) &nbsp;
-[![Reddit](https://img.shields.io/reddit/user-karma/combined/fpgmaas?color=green&label=Reddit&logo=reddit&logoColor=white&style=for-the-badge)](https://www.reddit.com/user/fpgmaas)
 
 ### StackOverflow Statistics
 
