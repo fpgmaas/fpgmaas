@@ -32,7 +32,21 @@
 - [sentence-transformers](https://github.com/UKPLab/sentence-transformers/commits?author=fpgmaas) - Moved from `setup.py` to `pyproject.toml` and various PR's to improve code quality and test coverage.
 - [unitycatalog](https://github.com/unitycatalog/unitycatalog/commits?author=fpgmaas) - Added documentation with mkdocs.
 
-#### 👍 Find me on...
+#### 👋 Find me on...
 
 - [StackOverflow](https://stackoverflow.com/users/8037249/florian)
 - [LinkedIn](https://www.linkedin.com/in/florianmaas/)
+
+<details>
+<summary>Show my Github & StackOverflow stats</summary>
+
+#### StackOverflow
+
+[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8037249&layout=compact)](https://stackoverflow.com/users/8037249/florian)
+
+#### Github
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fpgmaas&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fpgmaas&hide=html,jupyter%20notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+</details>
