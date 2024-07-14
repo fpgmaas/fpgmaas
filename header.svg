@@ -1,0 +1,21 @@
+<svg width="100%" height="100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+    .light-blue {
+      fill: #ADD8E6;
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 700;
+    }
+    .dark-blue {
+      fill: rgba(38, 70, 83, 0.7);
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 400;
+    }
+  </style>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="light-blue" font-size="24">
+    Hello,
+  </text>
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" class="dark-blue" font-size="24">
+    I'm Florian
+  </text>
+</svg>

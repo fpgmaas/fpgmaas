@@ -1,5 +1,5 @@
 <h2 align="center" style="border-bottom: 0;">
-  Hi, I'm Florian!
+  <img src="./header.svg" width="100%" height="100">
 </h2>	
 <img src="./waves.svg" width="100%" height="100">
 
