@@ -40,6 +40,8 @@
 <details>
 <summary>Show my Github & StackOverflow stats</summary>
 
+---
+
 #### StackOverflow
 
 [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8037249&layout=compact)](https://stackoverflow.com/users/8037249/florian)
