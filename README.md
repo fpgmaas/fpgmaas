@@ -1,10 +1,38 @@
-<p align="center">
+<p align="center" style="font-size: 24px;">
   Hi, I'm Florian!
 </p>	
 <img src="./waves.svg" width="100%" height="100">
 
-### 📦 Open Source Packages
-- [deptry](https://github.com/fpgmaas/deptry): Find unused, missing and transitive dependencies in a Python project
-- [cookiecutter-poetry](https://github.com/fpgmaas/cookiecutter-poetry): A modern cookiecutter template for Python projects that use Poetry for dependency management
-- [ckit](https://github.com/fpgmaas/ckit): A command line utility to help you organise and quickly run frequently used commands
-- [simple-homepage](https://github.com/fpgmaas/simple-homepage): A command line utility that helps you create a personal homepage for your browser
+
+#### 📦 Open Source Packages
+- [deptry](https://github.com/fpgmaas/deptry) - Find unused, missing and transitive dependencies in a Python project.
+- [cookiecutter-poetry](https://github.com/fpgmaas/cookiecutter-poetry) - A modern cookiecutter template for Python projects that use Poetry for dependency management.
+- [ckit](https://github.com/fpgmaas/ckit) - A command line utility to help you organise and quickly run frequently used commands.
+- [simple-homepage](https://github.com/fpgmaas/simple-homepage) - A command line utility that helps you create a personal homepage for your browser.
+
+#### ⭐ Websites
+- [fpgmaas.com](https://fpgmaas.com) - My personal website.
+- [pypiscout.com](https://pypiscout.com) - Find Python Packages on PyPI with the help of vector embeddings.
+
+#### 🛠️ Other projects
+
+- [stream-iot](https://github.com/fpgmaas/stream-iot) - An end-to-end workflow for processing streaming data on Azure. 
+
+#### 📝 Latest blogposts
+
+- [Readable code: Writing future-proof applications](https://www.fpgmaas.com/blog/clean-python-code)
+- [Airflow on AKS: A step-by-step guide to Helm deployment on Azure](https://www.fpgmaas.com/blog/azure-airflow-kubernetes)
+- [Deploying infrastructure to Azure using Terraform and GitHub Actions](https://www.fpgmaas.com/blog/azure-terraform-github-actions)
+- [Deploying Python Lambda functions using Docker](https://www.fpgmaas.com/blog/aws-cdk-lambdas-docker)
+- [Deploying a Flask API to Google Cloud Run using Terraform - Part 2](https://www.fpgmaas.com/blog/deploying-a-flask-api-to-cloudrun-2)
+
+
+#### 📈 Open Source Contributions
+
+- [sentence-transformers](https://github.com/UKPLab/sentence-transformers/commits?author=fpgmaas) - Moved from `setup.py` to `pyproject.toml` and various PR's to improve code quality and test coverage.
+- [unitycatalog](https://github.com/unitycatalog/unitycatalog/commits?author=fpgmaas) - Added documentation with mkdocs.
+
+#### 👍 Find me on...
+
+- [StackOverflow](https://stackoverflow.com/users/8037249/florian)
+- [LinkedIn](https://www.linkedin.com/in/florianmaas/)
