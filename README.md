@@ -1,21 +1,37 @@
-### Hi there 👋
+<p align="center">
+  Hi, I'm Florian!
+</p>	
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100%">
 
-Hi, I'm Florian, a freelance ML/data/software engineer.  I live in The Hague, the Netherlands.
+<h2 align="center">📦 Open Source Packages</h2>
 
-### Find me online 
-[![fpgmaas.com](https://img.shields.io/badge/fpgmaas.com-black?style=for-the-badge&logo=gatsby&logoColor=white)](https://fpgmaas.com) &nbsp;
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8037249/florian) &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florianmaas/) &nbsp;
-
-### StackOverflow Statistics
-
-[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8037249&layout=compact)](https://stackoverflow.com/users/8037249/florian)
-
-<details>
-<summary>Show my Github Stats</summary>
-<br />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fpgmaas&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fpgmaas&hide=html,jupyter%20notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-
-</details>
+<table>
+  <tr>
+    <td>
+      <div align="center">
+        <a href="https://github.com/fpgmaas/deptry"><strong>deptry</strong></a>
+        <p>Find unused, missing and transitive dependencies in a Python project</p>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <a href="https://github.com/fpgmaas/cookiecutter-poetry"><strong>cookiecutter-poetry</strong></a>
+        <p>A modern cookiecutter template for Python projects that use Poetry for dependency management</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center">
+        <a href="https://github.com/fpgmaas/ckit"><strong>ckit</strong></a>
+        <p>A command line utility to help you organise and quickly run frequently used commands</p>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <a href="https://github.com/fpgmaas/simple-homepage"><strong>simple-homepage</strong></a>
+        <p>A command line utility that helps you create a personal homepage for your browser</p>
+      </div>
+    </td>
+  </tr>
+</table>
