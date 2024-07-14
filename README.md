@@ -37,10 +37,10 @@
 - [StackOverflow](https://stackoverflow.com/users/8037249/florian)
 - [LinkedIn](https://www.linkedin.com/in/florianmaas/)
 
+<br>
+
 <details>
 <summary>Show my Github & StackOverflow stats</summary>
-
----
 
 #### StackOverflow
 
