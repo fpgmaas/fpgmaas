@@ -1,6 +1,6 @@
-<p align="center" style="font-size: 24px;">
+<h2 align="center" style="border-bottom: 0;">
   Hi, I'm Florian!
-</p>	
+</h2>	
 <img src="./waves.svg" width="100%" height="100">
 
 
