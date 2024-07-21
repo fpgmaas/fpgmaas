@@ -30,7 +30,7 @@
 #### 📈 Open Source Contributions
 
 - [sentence-transformers](https://github.com/UKPLab/sentence-transformers/commits?author=fpgmaas) - Moved from `setup.py` to `pyproject.toml` and various PR's to improve code quality and test coverage.
-- [unitycatalog](https://github.com/unitycatalog/unitycatalog/commits?author=fpgmaas) - Added documentation with mkdocs.
+- [chispa](https://github.com/MrPowers/chispa/commits?author=fpgmaas) - Joined the project as a maintainer to improve project structure, coding standards and the CI/CD pipelines.
 
 #### 👋 Find me on...
 
