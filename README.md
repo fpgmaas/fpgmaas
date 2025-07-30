@@ -13,7 +13,6 @@
 
 #### ⭐ Websites
 - [fpgmaas.com](https://fpgmaas.com) - My personal website.
-- [pypiscout.com](https://pypiscout.com) - Find Python Packages on PyPI with the help of vector embeddings.
 
 #### 🛠️ Other projects
 
