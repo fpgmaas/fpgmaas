@@ -26,12 +26,6 @@
 - [Deploying Python Lambda functions using Docker](https://www.fpgmaas.com/blog/aws-cdk-lambdas-docker)
 - [Deploying a Flask API to Google Cloud Run using Terraform - Part 2](https://www.fpgmaas.com/blog/deploying-a-flask-api-to-cloudrun-2)
 
-
-#### 📈 Open Source Contributions
-
-- [sentence-transformers](https://github.com/UKPLab/sentence-transformers/commits?author=fpgmaas) - Moved from `setup.py` to `pyproject.toml` and various PR's to improve code quality and test coverage.
-- [chispa](https://github.com/MrPowers/chispa/commits?author=fpgmaas) - Joined the project as a maintainer to improve project structure, coding standards and the CI/CD pipelines.
-
 #### 👋 Find me on...
 
 - [StackOverflow](https://stackoverflow.com/users/8037249/florian)
