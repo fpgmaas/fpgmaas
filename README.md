@@ -13,6 +13,7 @@
 
 #### ⭐ Websites
 - [fpgmaas.com](https://fpgmaas.com) - My personal website.
+- [pyatlas.io](https://pyatlas.io) - Explore the top 10,000 packages on PyPI.
 
 #### 🛠️ Other projects
 
