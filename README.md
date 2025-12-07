@@ -10,6 +10,8 @@
 - [cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv) - A modern cookiecutter template for Python projects that use uv for dependency management.
 - [ckit](https://github.com/fpgmaas/ckit) - A command line utility to help you organise and quickly run frequently used commands.
 - [simple-homepage](https://github.com/fpgmaas/simple-homepage) - A command line utility that helps you create a personal homepage for your browser.
+- [map-nl](https://github.com/fpgmaas/simple-homepage) - Quickly create PC4 maps of the Netherlands.
+- [mime-enum](https://github.com/fpgmaas/mime-enum) - Type-safe MIME type enumeration for Python.
 
 #### ⭐ Websites
 - [fpgmaas.com](https://fpgmaas.com) - My personal website.
@@ -17,7 +19,8 @@
 
 #### 🛠️ Other projects
 
-- [stream-iot](https://github.com/fpgmaas/stream-iot) - An end-to-end workflow for processing streaming data on Azure. 
+- [stream-iot](https://github.com/fpgmaas/stream-iot) - An end-to-end workflow for processing streaming data on Azure.
+- [aws-cdk-py-docker-lambdas](https://github.com/fpgmaas/aws-cdk-py-docker-lambdas) - Example to deploy multiple lambdas with one single Docker image using AWS CDK.
 
 #### 📝 Latest blogposts
 
