@@ -8,7 +8,7 @@
 - [deptry](https://github.com/fpgmaas/deptry) - Find unused, missing and transitive dependencies in a Python project.
 - [cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv) - A modern cookiecutter template for Python projects that use uv for dependency management.
 - [cookiecutter-poetry](https://github.com/fpgmaas/cookiecutter-poetry) - A modern cookiecutter template for Python projects that use Poetry for dependency management.
-- [justx](https://github.com/fpgmaas/justx) - A command line utility to help you organise and quickly run frequently used commands.
+- [justx](https://github.com/fpgmaas/justx) - A TUI command launcher built on top of just. Define recipes once, run them anywhere.
 - [simple-homepage](https://github.com/fpgmaas/simple-homepage) - A command line utility that helps you create a personal homepage for your browser.
 - [map-nl](https://github.com/fpgmaas/simple-homepage) - Quickly create PC4 maps of the Netherlands.
 - [mime-enum](https://github.com/fpgmaas/mime-enum) - Type-safe MIME type enumeration for Python.
