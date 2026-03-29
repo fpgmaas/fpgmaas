@@ -15,7 +15,7 @@
 
 #### ⭐ Websites
 - [fpgmaas.com](https://fpgmaas.com) - My personal website.
-- [pyatlas.io]([https://pyatlas.io](https://fpgmaas.github.io/pyatlas/)) - Explore the top 10,000 packages on PyPI.
+- [pyatlas.io](https://fpgmaas.github.io/pyatlas) - Explore the top 10,000 packages on PyPI.
 
 #### 🛠️ Other projects
 
